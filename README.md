@@ -53,7 +53,7 @@ Los siguientes supuestos guían las decisiones de arquitectura:
 
 A continuación se muestra una visión general de la plataforma (GCP):
 
-![Diagram](docs\diagrams\dataplatform_hla.svg)
+![Diagram](/docs/diagrams/dataplatform_hla.svg)
 
 **Productores**
 - Web / Mobile (SDK de eventos)
