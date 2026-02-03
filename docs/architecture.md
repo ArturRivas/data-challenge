@@ -266,6 +266,8 @@
 
 ## 5 Integración con ML / Analítica avanzada
 
+![Diagram](/docs/diagrams/dataplatform_mlops.svg)
+
 ### 5.1 Estrategia mínima (pragmática)
 
 Separar claramente:
